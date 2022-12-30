@@ -67,7 +67,7 @@ Version: 1.0 Alpha 1
 // @section info
 
 // Author info of this build printed to the host during boot and M115
-#define STRING_CONFIG_H_AUTHOR "(fahza, FAHZA 3D Printer Mk. I)" // Who made the changes.
+#define STRING_CONFIG_H_AUTHOR "(fahza, Creality Ender-5 Plus)" // Who made the changes.
 //#define CUSTOM_VERSION_FILE Version.h // Path from the root directory (no quotes)
 
 /**
@@ -142,11 +142,11 @@ Version: 1.0 Alpha 1
 //#define BLUETOOTH
 
 // Name displayed in the LCD "Ready" message and Info menu
-#define CUSTOM_MACHINE_NAME "FAHZA 3D Printer Mk. I"
+#define CUSTOM_MACHINE_NAME "Creality Ender-5 Plus"
 
 // Printer's unique ID, used by some programs to differentiate between machines.
 // Choose your own or use a service like https://www.uuidgenerator.net/version4
-#define MACHINE_UUID "440ab126-8938-4414-b18a-8be5ea80d9bc"
+//#define MACHINE_UUID "00000000-0000-0000-0000-000000000000"
 
 // @section stepper drivers
 
