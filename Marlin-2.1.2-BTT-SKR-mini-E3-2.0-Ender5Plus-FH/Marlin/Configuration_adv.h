@@ -1,3 +1,9 @@
+/*
+
+Config last edit: 30/12/2022
+
+*/
+
 /**
  * Marlin 3D Printer Firmware
  * Copyright (c) 2022 MarlinFirmware [https://github.com/MarlinFirmware/Marlin]
