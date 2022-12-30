@@ -33,7 +33,7 @@
  * vendor name, download location, GitHub account, etc.
  */
 #ifndef DETAILED_BUILD_VERSION
-  #define DETAILED_BUILD_VERSION SHORT_BUILD_VERSION
+  #define DETAILED_BUILD_VERSION "2.1.2-FAHZA Build Date: 30/12/22"
 #endif
 
 /**
