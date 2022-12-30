@@ -9,10 +9,10 @@
 ; https://docs.platformio.org/page/projectconf.html
 
 [platformio]
-src_dir = E:\Cloud\MEGA\3D Print Software\My-Ender-5-Plus-BIGTREETECH-SKR-mini-E3-v2-Firmware\Marlin-2.1.2-BTT-SKR-mini-E3-2.0-Ender5Plus-FH\Marlin
-boards_dir = E:\Cloud\MEGA\3D Print Software\My-Ender-5-Plus-BIGTREETECH-SKR-mini-E3-v2-Firmware\Marlin-2.1.2-BTT-SKR-mini-E3-2.0-Ender5Plus-FH\buildroot\share\PlatformIO\boards
+src_dir = E:\Cloud\MEGA\3D Print Software\Ender-5-Plus-BIGTREETECH-SKR-mini-E3-v2-Firmware-FAHZA\Marlin-bugfix-2.1.x-BTT-SKR-mini-E3-2.0-Ender5Plus-FAHZA\Marlin
+boards_dir = E:\Cloud\MEGA\3D Print Software\Ender-5-Plus-BIGTREETECH-SKR-mini-E3-v2-Firmware-FAHZA\Marlin-bugfix-2.1.x-BTT-SKR-mini-E3-2.0-Ender5Plus-FAHZA\buildroot\share\PlatformIO\boards
 default_envs = STM32F103RC_btt
-include_dir = E:\Cloud\MEGA\3D Print Software\My-Ender-5-Plus-BIGTREETECH-SKR-mini-E3-v2-Firmware\Marlin-2.1.2-BTT-SKR-mini-E3-2.0-Ender5Plus-FH\Marlin
+include_dir = E:\Cloud\MEGA\3D Print Software\Ender-5-Plus-BIGTREETECH-SKR-mini-E3-v2-Firmware-FAHZA\Marlin-bugfix-2.1.x-BTT-SKR-mini-E3-2.0-Ender5Plus-FAHZA\Marlin
 extra_configs = 
 	Marlin/config.ini
 	ini/avr.ini
