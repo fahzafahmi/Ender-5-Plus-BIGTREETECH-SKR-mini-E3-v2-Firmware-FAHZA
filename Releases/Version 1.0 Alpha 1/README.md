@@ -1,5 +1,5 @@
-#Version: 1.0 Alpha 1
-##USE AT YOUR OWN RISKS, MIGHT DAMAGE YOUR PRINTER
+# Version: 1.0 Alpha 1
+## USE AT YOUR OWN RISKS, MIGHT DAMAGE YOUR PRINTER
 
 Change-log:
 1. Early version of setup
