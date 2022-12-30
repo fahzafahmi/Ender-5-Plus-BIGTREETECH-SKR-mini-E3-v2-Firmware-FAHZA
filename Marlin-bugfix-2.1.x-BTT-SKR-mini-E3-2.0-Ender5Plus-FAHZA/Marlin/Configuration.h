@@ -1,7 +1,7 @@
 /*
 
 Config last edit: 30/12/2022
-Version: 1.0 Alpha 1
+Version: 1.0 Alpha
 
 */
 
